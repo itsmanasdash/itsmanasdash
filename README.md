@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/474x/25/fb/ca/25fbcacf313fc8eba494e4cb84fde6d0.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/1200x/9b/5a/52/9b5a52e2b31513eb77508dadd1d11765.jpg"  />
 
 
 ###
@@ -13,7 +13,11 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/itsmanasdash/itsmanasdash/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasad-d-ware/prasad-d-ware/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasad-d-ware/prasad-d-ware/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prasad-d-ware/prasad-d-ware/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
 
@@ -69,9 +73,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmanasdash&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmanasdash&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
