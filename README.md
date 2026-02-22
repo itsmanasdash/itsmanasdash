@@ -2,11 +2,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/1200x/9b/5a/52/9b5a52e2b31513eb77508dadd1d11765.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/736x/ae/ec/bc/aeecbc24517377e22159fdcbfb0b349c.jpg"  />
 
 
 ###
-
 <p align="left">🔭 I’m currently working on Web3 , De-Fi , NOSTR.<br>🌱 I’m currently learning React-Native , Rust and Solana<br>💬 Ask me about : Bitcoin<br>⚡ Fun fact : Still figuring out 🥲</p>
 
 ###
