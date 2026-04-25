@@ -7,7 +7,7 @@
 
 ###
 <br>
-<p align="left">🔭 I’m currently working on Web3 , De-Fi , NOSTR.<br>🌱 I’m currently learning React-Native, Rust and Solana<br>💬 Ask me about : Bitcoin<br>⚡ Fun fact : Still figuring out 🥲</p>
+<p align="left">🔭 I’m currently working on Web3, De-Fi, NOSTR.<br>🌱 I’m currently learning React-Native, Rust and Solana<br>💬 Ask me about : Bitcoin<br>⚡ Fun fact : Still figuring out 🥲</p>
 
 ###
 
